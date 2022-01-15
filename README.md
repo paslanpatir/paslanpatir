@@ -3,7 +3,7 @@ Hi,
 It's Pelin. I'm a data & research enthusiast. I like data wrangling and modeling as much as presenting my work to others.   
 I can discuss almost any topics. 
 Can we use a basic ann as an alternative to subsampling?
-What would be the pros and cons if we simply ensemble a linear and nonlinear model? 
+What would be the pros and cons if we simply ensemble two linear and nonlinear models? 
 Although jazz music emerged as a self-expression of 'black' people, how come do we listen it in cool pubs and it is mostly favored by middle-or-upper class?
 What is the best policy in children's education? 
 
