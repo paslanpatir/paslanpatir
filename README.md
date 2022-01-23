@@ -1,6 +1,6 @@
 Hi,
 
-It's Pelin. I'm a data & research enthusiast. I like data wrangling and modeling as much as presenting my work to others.   
+It's Pelin. I'm a data science & research enthusiast. I like data wrangling and modeling as much as presenting my work to others.   
 I can discuss almost any topics. 
 Can we use a basic ann as an alternative to subsampling?
 What would be the pros and cons if we simply ensemble two linear and nonlinear models? 
