@@ -1,15 +1,14 @@
 Hi,
 
 It's Pelin. I'm a data science & research enthusiast. I like data wrangling and modeling as much as presenting my work to others.   
-I can discuss almost any topics. 
-Can we use a basic ann as an alternative to subsampling?
-What would be the pros and cons if we simply ensemble two linear and nonlinear models? 
-Although jazz music emerged as a self-expression of 'black' people, how come do we listen it in cool pubs and it is mostly favored by middle-or-upper class?
-What is the best policy in children's education? 
+I love discussing and challenging points of view. Therefore, I am very keen on learning and sharing knowledge.
 
-Anyways, you see I generally enjoy thinking and challenging my view of thinking. So, I like to do research and learn.
+Probably the most important two things about me: 
+1. I am a very lucky person in terms of my family and friends.
+2. Tango means the world to me :)
 
-Currently, I work as a Data Scientist in Modanisa, which is the global market leader of online modest fashion and category builder. 
-Previously, I had a chance to work as an academic (research assistant) and data science consultant for two large retail companies.
+Currently, I work as a Senior Data Scientist in Odeabank. I am the first but not the least data scientist of the bank :)
 
-you can reach me via linkedin: https://www.linkedin.com/in/pelinyurdadon/
+Previously, I worked in Modanisa, which is the global market leader in online modest fashion and category builder. I also had a chance to work as an academic (research assistant) and data science consultant for two large retail companies in Invent Analytics.
+
+You can reach me via linkedin: https://www.linkedin.com/in/pelinyurdadon/
